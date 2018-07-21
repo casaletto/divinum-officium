@@ -1126,7 +1126,7 @@ sub placeattibi
 sub Communio_Populi : ScriptFunc {
   my $lang = shift;
 
-  return htmlcall('Communio', $lang);
+  return gettext2('Communio', $lang);
 }
 
 sub Ultimaev : ScriptFunc {
@@ -1167,3 +1167,29 @@ sub DeTemporePassionis
           $winner{'Rank'} !~ /Septem Dolorum/i;
 }
 
+sub gettext2
+{
+  my $popup = shift;
+  my $lang = shift;
+  my $text = '';
+  
+  my %popup_files =
+  (
+    Ante      => 'Ante.txt',
+    Communio  => 'Communio.txt',
+    Post      => 'Post.txt'
+  );
+
+  # File must be one of those explicitly permitted.
+  my $fname = $popup_files{$popup} or return 'Invalid filename.';
+  
+  $fname = checkfile($lang, "Ordo/$fname");
+  
+  $text = join("\n", do_read($fname)) or return "Cannot open $datafolder/$lang/Ordo/$fname.txt";  
+
+  $text =~ s/[#!].*?\n//g unless $rubrics;
+
+  $text =~ s/#/!/g;
+  $text = resolve_refs($text, $lang);
+  return $text;
+}

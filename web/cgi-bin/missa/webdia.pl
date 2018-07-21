@@ -18,12 +18,11 @@ sub htmlHead {
   my $title = shift;
   my $flag = shift;
   if (!$title) {$title = ' ';}
-  print "Content-type: text/html; charset=utf-8\n\n"; 
-
 
   print << "PrintTag";
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <HTML><HEAD>
+  <meta charset="utf-8">
   <META NAME="Resource-type" CONTENT="Document">
   <META NAME="description" CONTENT="Divine Office">
   <META NAME="keywords" CONTENT="Divine Office, Breviarium, Liturgy, Traditional, Zsolozsma">
@@ -416,9 +415,7 @@ sub setcookies {
    $value =~ s/\r*\n/  /g;
    $c = $q->cookie(-name=>"$cname",-value=>"$value",-expires=>"$cookieexpire");
 
-  if (length($c) < 4096) {print "Set-Cookie:$c\n";}
-  else {$error .= 'Command/stack is longer than 4095 characters';}
-  return "$c";
+   return "$c";
 }
 
 #cookie for recognize the new day
@@ -515,10 +512,7 @@ sub topnext {
   if ($officium =~ /Pofficium/i) {return:}
   my $lang = shift;
   my $str = "<FONT SIZE=1 COLOR=green><DIV ALIGN=right>";
-  if (columnsel($lang)) {
-    $str .= "<A HREF=# onclick=\"setsearch($searchind);\">Top</A>&nbsp;&nbsp;";
-    $str .= "<A HREF=# onclick=\"setsearch($searchind+1);\">Next</A>";
-  } else {$str .= "$searchind";}
+  $str .= "$searchind";
   $str .=  "</DIV></FONT>\n";
   return $str;
 }
@@ -547,10 +541,6 @@ sub ante_post {
   
   if ($Ck) {return;}
   my $colspan = ($only) ? '' : 'COLSPAN=2';
-
-  print "<TR><TD $background VALIGN=TOP $colspan ALIGN=CENTER>\n";
-  print htmlcall($title);
-  print "<FONT SIZE=1>Missam</FONT></TD></TR>";
 }
 
 #table_end()

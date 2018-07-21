@@ -202,7 +202,10 @@ if ($command =~ /setup(.*)/is) {
   $command =~ s/(pray|change|setup)//ig;
   $title = "Sancta Missa";
 
-  $head = $title;
+    # put the date in the title
+	my ($month,$day,$year) = split('-',$date1);
+	my $date2 = $year . '-' . $month . '-' . $day  ;
+	$head = $title . ' ' . $date2 ;
         
   $headline = setheadline();
   headline($head);
@@ -241,15 +244,17 @@ for ($i = 0; $i < @versions; $i++) {$chv[$i] = $version =~ /$versions[$i]/ ? 'SE
 
 $ctext = ($pmode =~ /(main)/i) ? 'Sancta Missa' : 'Sancta Missa Completed';
 
+# hide this element
 print << "PrintTag";
-<P ALIGN=CENTER><I>
+<P ALIGN=CENTER style="display:none;"><I>
 Rubrics : <INPUT TYPE=CHECKBOX NAME='rubrics' $crubrics Value=1  onclick="parchange()">
 &nbsp;&nbsp;&nbsp;
 <A HREF=# onclick="hset('$ctext');"><FONT COLOR=blue>$ctext</FONT></A>
 &nbsp;&nbsp;&nbsp;
 Solemn : <INPUT TYPE=CHECKBOX NAME='solemn' $csolemn Value=1 onclick="parchange()">
 </I></P>
-<P ALIGN=CENTER>
+
+<P ALIGN=CENTER style="display:none;">
 PrintTag
 
   $vsize = @versions;
@@ -317,13 +322,17 @@ foreach my $lang (@languages)
   my $sel = ($lang2 =~ /$lang/i) ? 'SELECTED' : '';
   print qq(<OPTION $sel VALUE="$lang">$lang</OPTION>);
 }
+
+# hide this element
 print << "PrintTag";
 </SELECT>
 $addvotive</P>
-<P ALIGN=CENTER><FONT SIZE=-1>
+
+<P ALIGN=CENTER style="display:none;">
+<FONT SIZE=-1>
 PrintTag
 
-  print << "PrintTag"; 
+print << "PrintTag"; 
 <A HREF="Cmissa.pl">Compare</A>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <A HREF=# onclick="pset('parameters')">Options</A>
@@ -362,11 +371,16 @@ sub headline {
   $numsel = "<BR><BR>$numsel<BR>" if $numsel;
   
   $headline =~ s{!(.*)}{<FONT SIZE=1>$1</FONT>}s;
-  print << "PrintTag";
-<P ALIGN=CENTER><FONT COLOR=$daycolor>$headline<BR></FONT>
+  
+# hide this element 
+print << "PrintTag";
+<P ALIGN=CENTER>
+<FONT COLOR=$daycolor>$headline<BR></FONT>
 $comment<BR><BR>
 <FONT COLOR=MAROON SIZE=+1><B><I>$head</I></B></FONT><P>
-<P ALIGN=CENTER><A HREF=# onclick="callofficium();">Divinum Officium</A>
+
+<P ALIGN=CENTER style="display:none;">
+<A HREF=# onclick="callofficium();">Divinum Officium</A>
 &nbsp;&nbsp;&nbsp;
 <INPUT TYPE=TEXT NAME=date VALUE="$date1" SIZE=10>
 <A HREF=# onclick="prevnext(-1)">&darr;</A>
