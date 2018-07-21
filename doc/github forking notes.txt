@@ -1,0 +1,119 @@
+-------------------------------------------------------------------------
+github forking notes
+-------------------------------------------------------------------------
+
+forking help:
+https://help.github.com/articles/syncing-a-fork/
+https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/
+
+source repo:
+https://github.com/DivinumOfficium/divinum-officium
+
+destination repo:
+https://github.com/me
+
+-------------------------------------------------------------------------
+github ssh setup (mingw64/msys2)
+-------------------------------------------------------------------------
+
+$ cd /c/dev/
+$ eval "$(ssh-agent -s)"
+$ ssh-add ~/.ssh/id_rsa_privatekey
+$ ssh-add -l
+
+-------------------------------------------------------------------------
+fork a github repo
+-------------------------------------------------------------------------
+
+- fork
+log in to github 
+press fork button at 
+https://github.com/DivinumOfficium/divinum-officium
+
+- clone the new forked repo
+$ git clone git@github.com:me/divinum-officium.git
+
+- add a git remote for the original repo
+$ git remote add upstream https://github.com/DivinumOfficium/divinum-officium.git
+
+- pull down all the code, both the fork and the upstream
+$ git fetch origin -v 
+$ git fetch upstream -v 
+
+- the config
+$ git config user.email "me@users.noreply.github.com"
+$ git config user.name  "me"
+
+-------------------------------------------------------------------------
+create a feature branch
+-------------------------------------------------------------------------
+
+- branch off master
+$ git checkout master
+$ git branch -v
+$ git pull origin master -v
+
+- create branch
+$ git checkout -b feature/offline-missa-creation
+$ git branch -v
+
+- sync new branch to github
+$ git push origin feature/offline-missa-creation -v
+$ git pull origin feature/offline-missa-creation -v
+$ git branch -v
+
+-------------------------------------------------------------------------
+do some work
+-------------------------------------------------------------------------
+
+$ git branch -v
+$ git add
+$ git commit -m "comment"
+
+------------------------------------------------------------------------
+sync to github
+-------------------------------------------------------------------------
+
+- sanity check
+$ git branch -v
+$ git log -5
+
+- update master from upstream master, and push back up
+$ git fetch upstream -v 
+$ git fetch origin -v 
+$ git checkout master
+$ git branch -v
+$ git merge upstream/master -v
+$ git log -5
+$ git push origin master
+
+- merge master to my feature bracnh, and push back up
+$ git checkout feature/offline-missa-creation 
+$ git branch -v
+$ git merge master -v --no-ff --no-edit
+$ git log -5
+$ git push origin feature/offline-missa-creation -v
+
+- sanity check, look at networking graphs
+https://github.com/DivinumOfficium/divinum-officium/network
+https://github.com/casaletto/divinum-officium/network
+
+-------------------------------------------------------------------------
+delete branch after pull request merge
+-------------------------------------------------------------------------
+
+- update master from upstream master, and push back up
+$ git fetch origin -v 
+$ git fetch upstream -v 
+$ git checkout master
+$ git branch -v
+$ git merge upstream/master -v
+$ git log -5
+$ git push origin master
+
+- delete old branch
+$ git branch -d <branch name>
+$ git push --delete origin <branch name>
+
+-------------------------------------------------------------------------
+
