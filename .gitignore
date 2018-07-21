@@ -1,3 +1,6 @@
 .vagrant
 Vagrantfile
 divinum-officium.conf
+/git-fetch.sh
+/git-sync-branch.sh
+/git-sync-master.sh
