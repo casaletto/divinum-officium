@@ -83,7 +83,7 @@ $ git fetch upstream -v
 $ git fetch origin -v 
 $ git checkout master
 $ git branch -v
-$ git merge upstream/master -v
+$ git merge upstream/master -v --no-ff --no-edit
 $ git log -5
 $ git push origin master
 

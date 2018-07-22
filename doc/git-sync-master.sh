@@ -7,6 +7,6 @@ git fetch origin -v
 git checkout master
 git branch -v
 
-git merge upstream/master -v
+git merge upstream/master -v --no-ff --no-edit
 git push origin master -v
 
