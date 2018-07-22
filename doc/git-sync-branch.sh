@@ -6,3 +6,4 @@ git branch -v
 
 git merge master -v --no-ff --no-edit
 git push origin feature/offline-missa-creation -v
+
