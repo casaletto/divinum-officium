@@ -2,7 +2,7 @@
 S. Alfonsi Mariæ de Ligorio Episc. Conf. et Eccles. Doct.;;Duplex;;3;;vide C4a
 
 [Name]
-Alfonse Maria
+Alfónse María
 
 [Rule]
 vide C4a;mtv
@@ -11,13 +11,13 @@ CPapaM=Stéphanum;
 
 [Oratio]
 Deus, qui per beátum Alfónsum Maríam Confessórem tuum atque Pontíficem, animárum~
-zelo succénsum, Ecclésiam tuam nova prole fœcundásti: quǽsumus; ut, ejus~
+zelo succénsum, Ecclésiam tuam nova prole fecundásti: quǽsumus; ut, ejus~
 salutáribus mónitis edócti et exémplis roboráti, ad te perveníre felíciter~
 valeámus.
 $Per Dominum.
 
 [Commemoratio]
-!Commemoratio St. Stephani Papæ Martyris
+!Commemoratio S. Stephani Papæ et Martyris
 @Commune/C2:Oratio1 Gregem
 
 [Lectio4]
@@ -46,9 +46,9 @@ Ecce enim binos ad prædicándum discipulos Dóminus mittit; quatenus hoc nobis 
 
 [Lectio93]
 !Commemoratio Pro S. Stephani Papa et Martyre
-Stephanus Romanus pontificátum gessit Valeriáno et Gallieno imperatóribus. Instituit ut sacerdótes et diáconi nusquam sacris vestibus, nisi in ecclésia, uteréntur. Baptizatos ab hæreticis, íterum baptizari vetuit, rescribens sancto Cypriáno verbis illis: Nihil innovétur, nisi quod traditum est. Multos etiam ad Christum convértit, in iis Olympium tribunum cum uxore Exsuperia et fílio Theodúlo, item Nemesium tribunum cum tota família, óculis Lucillæ ejus fíliæ restitútis: qui omnes Jesu Christi Mártyres fuérunt. Sed, vehementius jam ingravescénte persecutióne imperatórum, Stephanus, convocato clero, ad martyrium suos hortabátur, in cryptisque Mártyrum assidue Missas et concília celebrábat. Qui, cum aliquándo raptus esset ab infidelibus ad templum Martis ut ei sacrificaret, líbere negávit se dæmónibus eum honórem velle tribúere, qui uni Deo deberétur. Quibus in verbis Martis statua terræmotu cóncidit templumque contrémuit. Quare ómnibus aufugiéntibus qui Stephanum tenébant, Pontifex ad suos revértitur in cœmetérium Lucinæ; quos, divinis præceptis ínstruens, sacraménto corporis Christi communicávit; ibique, dum Missárum solemnia pérficit; adveniéntibus íterum imperatórum satellítibus, ei in sua sede caput abscínditur. Corpus, cum eadem sede conspersa Mártyris sánguine, a clericis sepúltum est in cœmeterio Callísti, quarto Nonas Augusti. Vixit in pontificatu annos tres, menses tres, dies viginti duos. Habuit ordinatiónes duas mense Decembri, quibus creávit presbyteros sex, diaconos quinque, episcopos tres.
+Stephanus Romanus pontificátum gessit Valeriáno et Gallieno imperatóribus. Instituit ut sacerdótes et diáconi nusquam sacris vestibus, nisi in ecclésia, uteréntur. Baptizatos ab hæreticis, íterum baptizari vetuit, rescribens sancto Cypriáno verbis illis: Nihil innovétur, nisi quod traditum est. Multos étiam ad Christum convértit, in iis Olympium tribunum cum uxore Exsuperia et fílio Theodúlo, item Nemesium tribunum cum tota família, óculis Lucillæ ejus fíliæ restitútis: qui omnes Jesu Christi Mártyres fuérunt. Sed, vehementius jam ingravescénte persecutióne imperatórum, Stephanus, convocato clero, ad martyrium suos hortabátur, in cryptisque Mártyrum assidue Missas et concília celebrábat. Qui, cum aliquándo raptus esset ab infidelibus ad templum Martis ut ei sacrificaret, líbere negávit se dæmónibus eum honórem velle tribúere, qui uni Deo deberétur. Quibus in verbis Martis statua terræmotu cóncidit templumque contrémuit. Quare ómnibus aufugiéntibus qui Stephanum tenébant, Pontifex ad suos revértitur in cœmetérium Lucinæ; quos, divinis præceptis ínstruens, sacraménto corporis Christi communicávit; ibique, dum Missárum solemnia pérficit; adveniéntibus íterum imperatórum satellítibus, ei in sua sede caput abscínditur. Corpus, cum eadem sede conspersa Mártyris sánguine, a clericis sepúltum est in cœmeterio Callísti, quarto Nonas Augusti. Vixit in pontificatu annos tres, menses tres, dies viginti duos. Habuit ordinatiónes duas mense Decembri, quibus creávit presbyteros sex, diaconos quinque, episcopos tres.
 &teDeum
 
 [Lectio94]
-Alfónsus María de Ligório, Neápoli nobílibus paréntibus natus, vix ut adolévit, ægrótis in públicis nosocomíis inservíre ac jugi in templis oratióni vacáre in delíciis habébat. Patri obtémperans, causárum patrocínia suscépit; fori tamen perícula expértus, ejúsmodi vitæ institútum ultro dimísit. Avíta primogenitúra abdicáta, et sacerdótio initiátus, tanto zelo írruit in vítia, ut ingéntes perditórum hóminum conversiónes perágeret. Páuperum præsértim et ruricolárum miserátus, congregatiónem Presbyterórum sanctíssimi Redemptóris ad eórum evangelizatiónem instítuit. Ne autem a propósito umquam divérteret, perpétuo se voto obstrínxit nullam témporis jactúram faciéndi. Domínicæ passiónis et sacræ Eucharístiæ contemplátor assíduus, atque Dei Genitrícis cultor exímius, non semel cæléstis ejus protectiónis signis est recreátus. Multa édidit sacra eruditióne ac pietáte reférta, quibus ánimas Christo lucrifácere stúduit. Ab ecclesiásticis dignitátibus sibi oblátis constantíssime abhórruit; apostólica tamen auctoritáte coáctus, sanctæ Agathæ Gothórum ecclésiam gubernándam suscépit. Liberális in páuperes, ómnibus ómnia factus, sanctimoniáles ad perfectiórem vivéndi formam redégit. Episcopátu ob graves habitualésque morbos dimísso, ad suos revértitur. Tandem nonagenárius, innocéntia vitæ et pœniténtia fulgens, anno millésimo septingentésimo octogésimo séptimo placidíssime exspirávit. Eum Pius Papa nonus Ecclésiæ universális Doctórem declarávit, et Pius duodécimus ómnium confessariórum ac moralistárum cæléstem apud Deum Patrónum constítuit.
+Alfónsus María de Ligório, Neápoli nobílibus paréntibus natus, vix ut adolévit, ægrótis in públicis nosocomíis inservíre ac jugi in templis oratióni vacáre in delíciis habébat. Patri obtémperans, causárum patrocínia suscépit; fori tamen perícula expértus, ejúsmodi vitæ institútum ultro dimísit. Avíta primogenitúra abdicáta, et sacerdótio initiátus, tanto zelo írruit in vítia, ut ingéntes perditórum hóminum conversiónes perágeret. Páuperum præsértim et ruricolárum miserátus, congregatiónem Presbyterórum sanctíssimi Redemptóris ad eórum evangelizatiónem instítuit. Ne autem a propósito umquam divérteret, perpétuo se voto obstrínxit nullam témporis jactúram faciéndi. Domínicæ passiónis et sacræ Eucharístiæ contemplátor assíduus, atque Dei Genetrícis cultor exímius, non semel cæléstis ejus protectiónis signis est recreátus. Multa édidit sacra eruditióne ac pietáte reférta, quibus ánimas Christo lucrifácere stúduit. Ab ecclesiásticis dignitátibus sibi oblátis constantíssime abhórruit; apostólica tamen auctoritáte coáctus, sanctæ Agathæ Gothórum ecclésiam gubernándam suscépit. Liberális in páuperes, ómnibus ómnia factus, sanctimoniáles ad perfectiórem vivéndi formam redégit. Episcopátu ob graves habitualésque morbos dimísso, ad suos revértitur. Tandem nonagenárius, innocéntia vitæ et pœniténtia fulgens, anno millésimo septingentésimo octogésimo séptimo placidíssime exspirávit. Eum Pius Papa nonus Ecclésiæ universális Doctórem declarávit, et Pius duodécimus ómnium confessariórum ac moralistárum cæléstem apud Deum Patrónum constítuit.
 &teDeum
