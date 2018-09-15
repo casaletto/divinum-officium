@@ -28,19 +28,23 @@ De hoc ígitur Corde quasi de fornáce divíni ardóris Virgo beáta prótulit v
 
 [Lectio6]
 !Ex ecclesiásticis documéntis
-Cultum litúrgicum, quo Cordi Immaculáto Vírginis Maríæ débitus tribúitur honor, cuíque plures viri sancti ac mulíeres viam parárunt, ipsa Apostólica Sedes primum approbávit ineúnte sǽculo undevicésimo, cum Pius Papa séptimus festum Puríssimi Cordis Maríæ Vírginis instítuit, ab ómnibus diœcésibus et religiósis famíliis, quæ id petiíssent, pie sanctéque agéndum: quod póstmodum Pius Papa nonus Offício ac Missa própria auxit. Ardens autem stúdium atque optátum, jam sǽculo décimo séptimo exórtum et in dies invaléscens, ut nempe ejúsmodi festum, majóri solemnitáte donátum, totíus Ecclésiæ commúne efficerétur, Summus Póntifex Pius duodecimus benígne excípiens anno millésimo nongentésimo quadragésimo secúndo, bello atrocíssimo per orbem fere totum ingravescénte, infínitas populórum ærúmnas míserans, pro sua in Matrem cæléstem pietáte ac fidúcia genus hóminum univérsum illíus Cordi benigníssimo obsecratióne solémni enixe commendávit, atque in honórem ejusdem Immaculáti Cordis festum cum Offício et Missa própriis in perpétuum ubíque celebrándum indixit.
+Cultum litúrgicum, quo Cordi Immaculáto Vírginis Maríæ débitus tribúitur honor, cuíque plures viri sancti ac mulíeres viam parárunt, ipsa Apostólica Sedes primum approbávit ineúnte sǽculo undevicésimo, cum Pius Papa séptimus festum Puríssimi Cordis Maríæ Vírginis instítuit, ab ómnibus diœcésibus et religiósis famíliis, quæ id petiíssent, pie sanctéque agéndum: quod póstmodum Pius Papa nonus Offício ac Missa própria auxit. Ardens autem stúdium atque optátum, jam sǽculo décimo séptimo exórtum et in dies invaléscens, ut nempe ejúsmodi festum, majóri solemnitáte donátum, totíus Ecclésiæ commúne efficerétur, Summus Póntifex Pius duodécimus benígne excípiens anno millésimo nongentésimo quadragésimo secúndo, bello atrocíssimo per orbem fere totum ingravescénte, infínitas populórum ærúmnas míserans, pro sua in Matrem cæléstem pietáte ac fidúcia genus hóminum univérsum illíus Cordi benigníssimo obsecratióne solémni enixe commendávit, atque in honórem ejusdem Immaculáti Cordis festum cum Offício et Missa própriis in perpétuum ubíque celebrándum indíxit.
 
 [Lectio7]
-Léctio sancti Evangélii secúndum Joánnem.
+Léctio sancti Evangélii secúndum Joánnem
 !Joannes 19:25-27
-In illo témpore: Stábant juxta crucem Jesu Mater ejus, et soror Matris ejus María Cléophæ, et María Magdalene. Et réliqua.
+In illo témpore: Stábant juxta crucem Jesu Mater ejus, et soror Matris ejus María Cléophæ, et María Magdaléne. Et réliqua.
 _
-Homilía sancti Roberti Bellarmino Epíscopi
+Homilía sancti Robérti Bellarmíno Epíscopi
 !De septem verbis Christi in Cruce, cap. 12
 Onus et jugum impósitum a Dómino sancto Joánni, ut Vírginis Matris curam géreret, vere fuit jugum suáve et onus leve. Quis enim non libentíssime cohabitáret Matri illi, quæ Verbum incarnátum in útero novem mensibus portávit, et illi totos trigínta annos devotíssime dulcissiméque cohabitávit? Quis non invídeat dilécto Dómini, qui in abséntia Fílii Dei præséntiam obtínuit Matris Dei? Sed, nisi fallor, póssumus et nos a benignitáte Verbi nostri causa incarnáti et ex dilectióne nímia nostri causa crucifíxi, précibus impetráre, ut dicat et nobis: Ecce Mater tua; et Matri suæ de nobis dicat: Ecce fílius tuus.
 
 [Responsory7]
-@Sancti/08-22:Responsory7
+[Responsory7]
+R. Felix namque es, sacra Virgo María, et omni laude digníssima:
+* Quia ex te ortus est sol justítiæ, Christus, Deus noster.
+V. Ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu: séntiant omnes tuum juvámen, quicúmque célebrant tuam sanctam festivitátem.
+R. Quia ex te ortus est sol justítiæ, Christus, Deus noster.
 
 [Lectio8]
 Non est avárus pius Dóminus gratiárum, dúmmodo ad thronum grátiæ ejus cum fide et fidúcia et non ficto corde, sed vero et sincéro accedámus. Qui nos coherédes esse vóluit regni Patris sui, non dedignábitur certe nos coherédes habére amóris Matris suæ. Sed nec ipsa Virgo benigníssima gravábitur multitúdine filiórum, cum sinum amplíssimum hábeat et valde cúpiat, nullum períre ex his, quos Fílius suus tam pretióso sánguine et tam pretiósa morte redémit. Adeámus ergo cum fidúcia ad thronum grátiæ Christi, et supplíciter nec sine lácrimis ab eo petámus, ut de unoquóque nostrum Matri suæ dicat: Ecce fílius tuus; et unicuíque nostrum de Matre sua dicat: Ecce Mater tua.
@@ -50,7 +54,7 @@ Quam bene nobis erit sub præsídio tantæ Matris? Quis nos detráhere audébit 
 &teDeum
 
 [Ant 2]
-O beáta Virgo * María: tu gratiæ Mater, tu spes mundi, exáudi nos fílios tuos clamántes ad te.
+O beáta Virgo * María: tu grátiæ Mater, tu spes mundi, exáudi nos fílios tuos clamántes ad te.
 
 [Ant 3]
 @Sancti/08-22r:Ant 1
