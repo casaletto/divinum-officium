@@ -1,5 +1,5 @@
 [Rank]
-S. Elisabeth Víduæ;;Duplex;;3;;vide C7a
+S. Elisabeth Viduæ;;Duplex;;3;;vide C7a
 
 [Rule]
 vide C7a;
@@ -7,7 +7,7 @@ vide C7a;
 CPapaM=Pontiánum;
 
 [Oratio]
-Tuórum corda fidelium, Deus miserátor, illústra: et, beátæ Elísabeth précibus gloriósis; fac nos próspera mundi despícere, et cælésti semper consolatióne gaudére.
+Tuórum corda fidélium, Deus miserátor, illústra: et, beátæ Elísabeth précibus gloriósis; fac nos próspera mundi despícere, et cælésti semper consolatióne gaudére.
 $Per Dominum
 
 [Commemoratio]

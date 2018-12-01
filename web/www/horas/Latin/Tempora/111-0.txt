@@ -20,7 +20,7 @@ R. Aperi óculos tuos et vide tribulatiónem nostram.
 @Commune/C1a:Lectio3
 
 [Responsory3]
-R. Aspice, Dómine, quia facta est desoláta cívitas plena divítiis, sedet in tristítia domina Géntium: 
+R. Aspice, Dómine, quia facta est desoláta cívitas plena divítiis, sedet in tristítia dómina géntium: 
 * Non est qui consolétur eam, nisi tu, Deus noster.
 V. Plorans plorávit in nocte, et lácrimæ ejus in maxíllis ejus.
 R. Non est qui consolétur eam, nisi tu, Deus noster.
@@ -35,7 +35,7 @@ Usus prophéticæ locutiónis est, ut prius personam, tempus, locúmque describa
 [Responsory4]
 R. Super muros tuos, Jerúsalem, constítui custódes; 
 * Tota die et nocte non tacébunt laudáre nomen Dómini.
-V. Prædicábunt pópulis fortitúdinem meam, et annuntiábunt Géntibus glóriam meam.
+V. Prædicábunt pópulis fortitúdinem meam, et annuntiábunt géntibus glóriam meam.
 R. Tota die et nocte non tacébunt laudáre nomen Dómini.
 
 [Lectio5]
@@ -62,7 +62,7 @@ R. Non in perpétuum obliviscáris nos.
 R. Laudábilis pópulus, 
 * Quem Dóminus exercítuum benedíxit dicens: Opus mánuum meárum tu es, heréditas mea Israël.
 V. Beáta gens, cujus est Dóminus Deus, pópulus eléctus in hereditátem.
-R. Quem Dóminus exercituum benedíxit dicens: Opus mánuum meárum tu es, heréditas mea Israël.
+R. Quem Dóminus exercítuum benedíxit dicens: Opus mánuum meárum tu es, heréditas mea Israël.
 
 [Responsory8]
 @Tempora/Pent01-0:Responsory8

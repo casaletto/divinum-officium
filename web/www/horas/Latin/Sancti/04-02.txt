@@ -1,18 +1,18 @@
 [Rank]
-S. Francisci de Paula Confessóris;;Duplex;;3.1;;vide C5
+S. Francisci de Paula Confessoris;;Duplex;;3.1;;vide C5
 
 [Rank](rubrica 1960)
-S. Francisci de Paula Confessóris;;Duplex;;3;;vide C5
+S. Francisci de Paula Confessoris;;Duplex;;3;;vide C5
 
 [RankNewcal]
-S. Francisci de Paula Confessóris;;Duplex optional;;2;;vide C5
+S. Francisci de Paula Confessoris;;Duplex optional;;2;;vide C5
 
 [Rule]
 vide C5;
 9 lectiones
 
 [Oratio]
-Deus, humílium celsitúdo, qui beátum Francíscum Confessórem Sanctórum tuórum glória sublimásti: tríbue, quǽsumus; ut, eius méritis et imitatióne, promíssa humílibus præmia felíciter consequámur.
+Deus, humílium celsitúdo, qui beátum Francíscum Confessórem Sanctórum tuórum glória sublimásti: tríbue, quǽsumus; ut, eius méritis et imitatióne, promíssa humílibus prǽmia felíciter consequámur.
 $Per Dominum.
 
 [Lectio4]
