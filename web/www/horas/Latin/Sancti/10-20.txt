@@ -1,8 +1,8 @@
 [Rank]
-S. Joannis Cantii Confessóris;;Duplex;;3;;vide C5
+S. Joannis Cantii Confessoris;;Duplex;;3;;vide C5
 
 [RankNewcal]
-S. Joannis Cantii Confessóris;;Duplex optional;;2;;vide C5
+S. Joannis Cantii Confessoris;;Duplex optional;;2;;vide C5
 
 [Rule]
 vide C5;
@@ -41,7 +41,7 @@ Novum canámus cánticum.
 Amen.
 
 [Oratio]
-Da, quǽsumus, omnípotens Deus: ut, sancti Joánnis Confessóris exémplo in sciéntia Sanctórum proficiéntes, atque aliis misericórdiam exhibéntes; ejus méritis, indulgéntiam apud te consequámur.
+Da, quǽsumus, omnípotens Deus: ut, sancti Joánnis Confessóris exémplo in sciéntia Sanctórum proficiéntes, atque áliis misericórdiam exhibéntes; ejus méritis, indulgéntiam apud te consequámur.
 $Per Dominum
 
 [Hymnus Matutinum]
